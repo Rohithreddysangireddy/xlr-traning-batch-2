@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo2 {
+public class greaterof twonumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
